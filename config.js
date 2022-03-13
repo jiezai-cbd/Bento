@@ -92,9 +92,9 @@ const CONFIG = {
   secondButtonsContainer: [
     {
       id: '1',
-      name: 'Music',
-      icon: 'headphones',
-      link: 'https://open.spotify.com',
+      name: 'blog',
+      icon: 'book-open',
+      link: 'https://jiezai-cbd.github.io/myblog/',
     },
     {
       id: '2',
