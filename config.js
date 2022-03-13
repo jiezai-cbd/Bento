@@ -110,9 +110,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Amazon',
-      icon: 'shopping-bag',
-      link: 'https://amazon.com/',
+      name: '163-game',
+      icon: 'gamepad-2',
+      link: 'https://cg.163.com/',
     },
     {
       id: '5',
