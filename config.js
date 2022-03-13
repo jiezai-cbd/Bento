@@ -116,9 +116,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Hashnode',
-      icon: 'pen-tool',
-      link: 'https://hashnode.com/',
+      name: 'graduation',
+      icon: 'graduation-cap',
+      link: 'https://co2.cnki.net/Login.html?dp=ncu&r=1647149493347',
     },
     {
       id: '6',
