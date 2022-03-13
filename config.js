@@ -65,15 +65,15 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'arch-wiki',
+      icon: 'navigation-2',
+      link: 'https://wiki.archlinux.org/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'wifi',
+      icon: 'wifi',
+      link: 'http://222.204.3.154/',
     },
     {
       id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Bilibili',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://https://www.bilibili.com/',
     },
   ],
 
