@@ -122,9 +122,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Figma',
-      icon: 'figma',
-      link: 'https://figma.com/',
+      name: 'baidu',
+      icon: 'search',
+      link: 'https://baidu.com/',
     },
   ],
 
