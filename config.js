@@ -61,7 +61,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.163.com/',
     },
     {
       id: '3',
