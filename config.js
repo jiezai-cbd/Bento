@@ -85,7 +85,7 @@ const CONFIG = {
       id: '6',
       name: 'Bilibili',
       icon: 'youtube',
-      link: 'https://https://www.bilibili.com/',
+      link: 'https://www.bilibili.com/',
     },
   ],
 
