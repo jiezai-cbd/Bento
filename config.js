@@ -124,7 +124,7 @@ const CONFIG = {
       id: '6',
       name: 'baidu',
       icon: 'search',
-      link: 'https://baidu.com/',
+      link: 'https://www.baidu.com/',
     },
   ],
 
