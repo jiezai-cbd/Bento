@@ -94,7 +94,7 @@ const CONFIG = {
       id: '1',
       name: 'blog',
       icon: 'book-open',
-      link: 'https://jiezai-cbd.github.io/myblog/',
+      link: 'https://jiezai-cbd.github.io/',
     },
     {
       id: '2',
